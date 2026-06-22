@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android 12+ (API 31): запрещаем выгрузку данных приложения в облачный бэкап и при
+     переносе устройство→устройство. Вместе с android:allowBackup="false" это закрывает
+     извлечение зашифрованного vault, keyring и приватного ключа синка через adb backup /
+     D2D-перенос. -->
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="root" />
+    </cloud-backup>
+    <device-transfer>
+        <exclude domain="root" />
+    </device-transfer>
+</data-extraction-rules>
