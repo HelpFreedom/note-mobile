@@ -1,6 +1,10 @@
-# QtNotes Mobile
+# Note
 
 [English version](README.en.md)
+
+![License: GPL v3](https://img.shields.io/badge/license-GPLv3-blue.svg)
+
+![screenshot](promo.png)
 
 **Flutter / Android**-компаньон к [QtNotes Desktop](../qtnotes-desktop) — приложению
 заметок в стиле Telegram, где папки это чаты, а заметки — сообщения.
