@@ -1,4 +1,4 @@
-# Note
+# Note mobile
 
 [English version](README.en.md)
 
