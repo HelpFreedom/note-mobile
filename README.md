@@ -6,7 +6,7 @@
 
 ![screenshot](promo.png)
 
-**Flutter / Android**-компаньон к [QtNotes Desktop](../qtnotes-desktop) — приложению
+**Flutter / Android**-компаньон к [Notes Desktop](https://github.com/HelpFreedom/note-desktop) — приложению
 заметок в стиле Telegram, где папки это чаты, а заметки — сообщения.
 
 Приложение **полностью офлайн** (без серверов и телеметрии) и использует ровно тот же
