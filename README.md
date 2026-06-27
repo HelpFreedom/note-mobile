@@ -13,7 +13,7 @@
 протокол peer-to-peer синхронизации и формат шифрования на диске, что и десктоп — поэтому
 телефон и компьютер сходятся к одним и тем же заметкам по локальной сети.
 
-> Десктоп-приложение (PySide6 / Qt 6): **[qtnotes-desktop](../qtnotes-desktop)**.
+> Десктоп-приложение (PySide6 / Qt 6): **[notes-desktop](https://github.com/HelpFreedom/note-desktop)**.
 
 ---
 
